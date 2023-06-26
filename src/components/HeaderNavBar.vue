@@ -18,6 +18,7 @@
 
 <style scoped>
   header {
+    max-width: 1440px;
     width: 100%;
     height: 64px;
     display: flex;
@@ -29,6 +30,9 @@
     display: flex;
     align-items: center;
     margin: 0 10px;
+    font-size: 20px;
+    font-family: Inter, sans-serif;
+    font-weight: 700;
   }
 
   ul {
