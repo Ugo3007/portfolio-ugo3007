@@ -7,6 +7,7 @@ import AboutContainer from "@/components/AboutContainer.vue";
 <template>
   <HeaderNavBar/>
   <AboutContainer/>
+  <RouterView/>
 </template>
 
 <style scoped>
